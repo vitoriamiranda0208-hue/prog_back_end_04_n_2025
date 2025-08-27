@@ -9,7 +9,7 @@
     <h1>27/08/2025</h1>
     <?php
     echo "Comando pelo php  novo"<br>;
-    echo ."uma nova linha";
+    echo "uma nova linha";
     ?>
 </body>
 </html>
